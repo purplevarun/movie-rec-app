@@ -1,4 +1,4 @@
-# movie-rec-app
+# Movie Recommender
 # app was made on 21/09/20 
 # ingredients : android studio , java and javascript
 # version updates{
